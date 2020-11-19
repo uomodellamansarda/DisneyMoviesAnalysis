@@ -1,4 +1,4 @@
-# DisneyMoviesAnalysis
+# Disney Movies Analysis
 This project started after diving deep on the dataset used on datacamp.com for this guided project https://www.datacamp.com/projects/740 Disney Movies and Box Office Success
 I wanted to dive deep into the original dataset. From here I created I first notebook where I made an analysis on best selling movies and most prolific directors, but more importantly discovering all the problems related to the reliability of the original dataset. 
 The original dataset used in the datacamp excercice is a modified version of this https://data.world/kgarrett/disney-character-success-00-16 
@@ -20,3 +20,4 @@ https://thewaltdisneycompany.com/walt-disney-company-reports-fourth-quarter-full
 
 Another change was made between 2018 and 2019. Here they changed the budget line "Parks and Resorts" into "Parks, Experiences and Products"
 https://thewaltdisneycompany.com/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2019/
+# DisneyMoviesAnalysis
