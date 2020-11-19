@@ -10,3 +10,13 @@ I cleaned and merged three tables (1) Disney characters (2) box office success (
 
 Other two notebook will be deployes.
 One always focused on DataViz will analyze ho changed through the time Dinsey Revenue Streams and the second one will analyze a pitfall that I think is present in the datacamp project.
+
+
+Note about the Revenue Streams Data. 
+From 2016 Disney Reports Changed the format of the main revenue streams.
+
+In particular, the first change was between 2015 and 2016 in fact in 2016 they started aggregating "Consumer Products" and "Interactive". https://thewaltdisneycompany.com/app/uploads/q4-fy15-earnings.pdf
+https://thewaltdisneycompany.com/walt-disney-company-reports-fourth-quarter-full-year-earnings-fiscal-2017/
+
+Another change was made between 2018 and 2019. Here they changed the budget line "Parks and Resorts" into "Parks, Experiences and Products"
+https://thewaltdisneycompany.com/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2019/
