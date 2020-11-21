@@ -18,3 +18,5 @@ https://thewaltdisneycompany.com/walt-disney-company-reports-fourth-quarter-full
 Another change was made between 2018 and 2019. Here they changed the budget line "Parks and Resorts" into "Parks, Experiences and Products"
 https://thewaltdisneycompany.com/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2019/
 # DisneyMoviesAnalysis
+
+![The Walt Disney Company Revenues](https://github.com/uomodellamansarda/DisneyMoviesAnalysis/blob/main/DisneyRevenueAndreaCiufo.png)
